@@ -4,3 +4,4 @@ def oxford_comma(array)
   str = array.join(", ")
   str += ", and #{last_ele}"
 end
+end
